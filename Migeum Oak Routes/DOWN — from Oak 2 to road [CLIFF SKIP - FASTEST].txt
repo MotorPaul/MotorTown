@@ -1,6 +1,6 @@
 {
 	"routeName": "OAK 2 cliff shortcut",
-	"description": "Cliff skip for back route from Migeum Oak 2 to road",
+	"description": "Cliff skip for back route from Migeum Oak 2 down to the main road",
 	"tested on game version": "0.7.17 build 978",
 	"successfully tested with": "Golima Semi + Eastwood",
 	"video guide": "https://www.youtube.com/@Motor_Paul",
@@ -182,4 +182,5 @@
 			}
 		}
 	]
+
 }
